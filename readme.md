@@ -3,7 +3,7 @@
 
 This was built with go1.10.2. It is recommended to use go1.10.2+ to build and test.
 
-### Install
+### Download
 
 `go get github.com/terencechow/crawl`
 
